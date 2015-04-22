@@ -1,0 +1,4 @@
+[submodule "HAL"]
+	path = HAL
+	url = https://mattapperson@github.com/TiForward/HAL
+	branch = ios-WIP
